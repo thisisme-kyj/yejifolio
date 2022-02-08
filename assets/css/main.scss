@@ -3,6 +3,11 @@
 # only main files contain this front matter, not partials.
 
 $baseurl: "";
+
+$sidebar-bg-color: #f15a22;
+$link-color: #f15a22;
+$sidebar-sticky: false;
+
 @charset "utf-8";
 
 @import "hydeout";
