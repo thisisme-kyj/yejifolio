@@ -1,2 +1,4 @@
 source "https://rubygems.org"
-gemspec
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-theme-hydeout", "~> 3.4"
+git push origin master
